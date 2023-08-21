@@ -121,6 +121,12 @@
     },
     "done": true
   },
+  "sf4:age_exploration/endcake": {
+    "criteria": {
+      "Obtain End Cake": "2023-08-20 15:51:39 +0800"
+    },
+    "done": true
+  },
   "sf4:age_storage/complete_no_prestige": {
     "criteria": {
       "Completed Wares the Remote?§r": "2023-08-18 09:04:52 +0800",
@@ -155,7 +161,9 @@
   },
   "sf4:age_allthethingsomglol/armormodifiers": {
     "criteria": {
-      "Diamond": "2023-08-17 15:31:14 +0800"
+      "Diamond": "2023-08-17 15:31:14 +0800",
+      "Emerald": "2023-08-20 13:56:47 +0800",
+      "Reinforced": "2023-08-20 13:55:42 +0800"
     },
     "done": false
   },
@@ -246,6 +254,12 @@
     },
     "done": false
   },
+  "sf4:age_farming/enderseeds": {
+    "criteria": {
+      "Obtain Ender Seeds": "2023-08-20 15:17:30 +0800"
+    },
+    "done": true
+  },
   "sf4:age1/slabs": {
     "criteria": {
       "Completed Root": "2023-08-14 21:07:36 +0800",
@@ -318,18 +332,22 @@
     "criteria": {
       "Completed Gotta Go Fast§r": "2023-08-19 22:16:16 +0800",
       "Completed Better With Mods§r": "2023-08-16 20:59:36 +0800",
+      "Completed Yo-Yo Ma§r": "2023-08-20 20:46:56 +0800",
       "Completed Tim the Tool Man Taylor§r": "2023-08-16 17:40:46 +0800",
       "Completed To Be ORe Not to Be§r": "2023-08-14 22:04:05 +0800",
       "Completed Pattern Me, Sir§r": "2023-08-16 17:42:36 +0800",
       "Completed Forging Ahead§r": "2023-08-16 17:39:19 +0800",
       "Completed Keep It Between the Lines§r": "2023-08-16 17:40:33 +0800",
       "Completed Rolling into the Station§r": "2023-08-16 17:38:27 +0800",
+      "Completed Ding!§r": "2023-08-20 11:59:24 +0800",
       "Completed It\u0027s Over 20!§r": "2023-08-18 18:10:17 +0800",
       "Completed Age of Enhancement§r": "2023-08-14 21:07:34 +0800",
       "Completed I\u0027ll Be Your Alloy§r": "2023-08-16 17:51:03 +0800",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2023-08-14 22:18:41 +0800",
       "Completed Axe Me Anything§r": "2023-08-16 18:03:25 +0800",
-      "Completed Sign My Cast§r": "2023-08-17 15:38:00 +0800"
+      "Completed Sign My Cast§r": "2023-08-17 15:38:00 +0800",
+      "Completed An Enchanting Evening§r": "2023-08-20 18:44:14 +0800",
+      "Completed Unbroken§r": "2023-08-20 18:55:58 +0800"
     },
     "done": false
   },
@@ -338,6 +356,12 @@
       "Obtain Gold Sapling": "2023-08-15 22:17:08 +0800"
     },
     "done": false
+  },
+  "sf4:age_power/hellishmatter": {
+    "criteria": {
+      "Obtain Hellish Matter": "2023-08-20 20:31:19 +0800"
+    },
+    "done": true
   },
   "tutorial:tutorial/copied/watercollection": {
     "criteria": {
@@ -411,7 +435,9 @@
       "Completed Age of Exploration§r": "2023-08-14 21:07:34 +0800",
       "Completed Nether Here Nor There§r": "2023-08-16 18:15:45 +0800",
       "Completed No Cake Like Home§r": "2023-08-16 18:15:45 +0800",
-      "Completed Lost and Found§r": "2023-08-19 22:38:14 +0800"
+      "Completed Lost and Found§r": "2023-08-19 22:38:14 +0800",
+      "Completed B\u0027Aiken a C\u0027Aiken§r": "2023-08-20 15:51:39 +0800",
+      "Completed Where\u0027s the Boss?§r": "2023-08-20 15:52:09 +0800"
     },
     "done": false
   },
@@ -423,9 +449,16 @@
   },
   "tutorial:tutorial/copied/slabs": {
     "criteria": {
+      "Obtain Chest Slab": "2023-08-20 19:47:01 +0800",
       "Obtain Furnace Slab": "2023-08-14 21:44:00 +0800"
     },
     "done": false
+  },
+  "sf4:age_enhancement/yoyo": {
+    "criteria": {
+      "Obtain Yoyo": "2023-08-20 20:46:56 +0800"
+    },
+    "done": true
   },
   "tutorial:tutorial/copied/claysapling": {
     "criteria": {
@@ -449,6 +482,12 @@
     "criteria": {
       "Completed Root": "2023-08-14 21:07:36 +0800",
       "Right Click on Bed": "2023-08-16 13:12:14 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_power/extraterrestrialmatter": {
+    "criteria": {
+      "Obtain Extraterrestrial Matter": "2023-08-20 17:49:42 +0800"
     },
     "done": true
   },
@@ -483,6 +522,12 @@
     "criteria": {
       "Enderman Seed": "2023-08-19 22:29:45 +0800",
       "Pig Seed": "2023-08-16 13:19:04 +0800"
+    },
+    "done": false
+  },
+  "compactmachines:test/7x7x72": {
+    "criteria": {
+      "Obtain Eye of Ender": "2023-08-20 15:06:40 +0800"
     },
     "done": false
   },
@@ -594,9 +639,17 @@
     "criteria": {
       "Completed Generator, I Hardly Know Her§r": "2023-08-17 16:20:14 +0800",
       "Completed Clicker Hero§r": "2023-08-16 21:06:28 +0800",
+      "Completed The Study Guide§r": "2023-08-20 15:47:01 +0800",
       "Completed Package Control§r": "2023-08-17 22:09:46 +0800",
       "Completed Gotta Smelt Fast§r": "2023-08-18 21:52:05 +0800",
-      "Completed Age of Power§r": "2023-08-14 21:07:34 +0800"
+      "Completed What the Heck?!§r": "2023-08-20 20:31:19 +0800",
+      "Completed Extraction, Extraction, Read All About It!§r": "2023-08-20 17:51:18 +0800",
+      "Completed Ctrl-Z§r": "2023-08-20 17:15:08 +0800",
+      "Completed Age of Power§r": "2023-08-14 21:07:34 +0800",
+      "Completed Down the Rabbit Hole§r": "2023-08-20 15:59:17 +0800",
+      "Completed The Truth is Out There§r": "2023-08-20 17:49:42 +0800",
+      "Completed The End of all Matter§r": "2023-08-20 15:48:17 +0800",
+      "Completed Withered Away§r": "2023-08-20 20:54:22 +0800"
     },
     "done": false
   },
@@ -642,6 +695,13 @@
   "tutorial:tutorial/dryingrack": {
     "criteria": {
       "Obtain Oak Wood Planks": "2023-08-14 21:13:22 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_enhancement/glitcharmor": {
+    "criteria": {
+      "Obtain Glitch Infused Chestplate": "2023-08-20 19:14:49 +0800",
+      "Obtain Glitch Infused Leggings": "2023-08-20 19:14:51 +0800"
     },
     "done": false
   },
@@ -720,7 +780,9 @@
       "Completed Nether Here Nor There§r": "2023-08-16 18:15:45 +0800",
       "Completed No Cake Like Home§r": "2023-08-16 18:15:45 +0800",
       "Completed Lost and Found§r": "2023-08-19 22:38:14 +0800",
-      "Prestige Mode": "2023-08-14 21:07:35 +0800"
+      "Prestige Mode": "2023-08-14 21:07:35 +0800",
+      "Completed B\u0027Aiken a C\u0027Aiken§r": "2023-08-20 15:51:39 +0800",
+      "Completed Where\u0027s the Boss?§r": "2023-08-20 15:52:09 +0800"
     },
     "done": false
   },
@@ -778,6 +840,7 @@
   },
   "sf4:age_allthethingsomglol/truffles": {
     "criteria": {
+      "Ender": "2023-08-20 15:13:58 +0800",
       "Steel": "2023-08-17 14:46:44 +0800"
     },
     "done": false
@@ -827,16 +890,34 @@
     },
     "done": false
   },
+  "sf4:age_power/uncraftinggrinder": {
+    "criteria": {
+      "Obtain Uncrafting Grinder": "2023-08-20 17:15:08 +0800"
+    },
+    "done": true
+  },
   "tutorial:tutorial/copied/sleep": {
     "criteria": {
       "Slept in a bed": "2023-08-18 18:04:44 +0800"
     },
     "done": false
   },
+  "sf4:age_power/deeplearner": {
+    "criteria": {
+      "Obtain Deep Learner": "2023-08-20 15:47:01 +0800"
+    },
+    "done": true
+  },
   "sf4:age1/amber/gold": {
     "criteria": {
       "Completed Root": "2023-08-14 21:07:36 +0800",
       "Obtain Gold Amber": "2023-08-15 22:15:20 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_power/extractionchamber": {
+    "criteria": {
+      "Obtain Loot Fabricator": "2023-08-20 17:51:18 +0800"
     },
     "done": true
   },
@@ -867,6 +948,7 @@
       "Obtain Lapis Sapling": "2023-08-15 22:07:37 +0800",
       "Obtain Bacon Sapling": "2023-08-16 13:22:27 +0800",
       "Obtain Donut Sapling": "2023-08-16 13:22:23 +0800",
+      "Obtain Emerald Sapling": "2023-08-20 15:26:01 +0800",
       "Obtain Petrified Sapling": "2023-08-14 21:16:58 +0800",
       "Obtain Tin Sapling": "2023-08-16 12:12:12 +0800",
       "Obtain Nickel Sapling": "2023-08-18 20:58:49 +0800",
@@ -901,6 +983,12 @@
     },
     "done": false
   },
+  "compactmachines:test/11x11x11": {
+    "criteria": {
+      "Obtain Nether Star": "2023-08-20 21:29:08 +0800"
+    },
+    "done": false
+  },
   "sf4:age1/sapling/lapis": {
     "criteria": {
       "Completed Root": "2023-08-14 21:07:36 +0800",
@@ -926,6 +1014,12 @@
       "Obtain Iron Amber": "2023-08-14 22:29:10 +0800"
     },
     "done": false
+  },
+  "sf4:age_enhancement/levelup": {
+    "criteria": {
+      "Level Up Tinkers\u0027 Pickaxe": "2023-08-20 11:59:24 +0800"
+    },
+    "done": true
   },
   "sf4:age_exploration/root": {
     "criteria": {
@@ -999,10 +1093,17 @@
     },
     "done": true
   },
+  "sf4:age_enhancement/enchantmenttable": {
+    "criteria": {
+      "Obtain Enchantment Table": "2023-08-20 18:44:14 +0800"
+    },
+    "done": true
+  },
   "sf4:age_enhancement/complete": {
     "criteria": {
       "Completed Gotta Go Fast§r": "2023-08-19 22:16:16 +0800",
       "Completed Better With Mods§r": "2023-08-16 20:59:36 +0800",
+      "Completed Yo-Yo Ma§r": "2023-08-20 20:46:56 +0800",
       "Completed Tim the Tool Man Taylor§r": "2023-08-16 17:40:46 +0800",
       "Completed To Be ORe Not to Be§r": "2023-08-14 22:04:05 +0800",
       "Completed Pattern Me, Sir§r": "2023-08-16 17:42:36 +0800",
@@ -1010,12 +1111,21 @@
       "Prestige Mode": "2023-08-14 21:07:35 +0800",
       "Completed Keep It Between the Lines§r": "2023-08-16 17:40:33 +0800",
       "Completed Rolling into the Station§r": "2023-08-16 17:38:27 +0800",
+      "Completed Ding!§r": "2023-08-20 11:59:24 +0800",
       "Completed It\u0027s Over 20!§r": "2023-08-18 18:10:17 +0800",
       "Completed Age of Enhancement§r": "2023-08-14 21:07:34 +0800",
       "Completed I\u0027ll Be Your Alloy§r": "2023-08-16 17:51:03 +0800",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2023-08-14 22:18:41 +0800",
       "Completed Axe Me Anything§r": "2023-08-16 18:03:25 +0800",
-      "Completed Sign My Cast§r": "2023-08-17 15:38:00 +0800"
+      "Completed Sign My Cast§r": "2023-08-17 15:38:00 +0800",
+      "Completed An Enchanting Evening§r": "2023-08-20 18:44:14 +0800",
+      "Completed Unbroken§r": "2023-08-20 18:55:58 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_allthethingsomglol/yoyomaster": {
+    "criteria": {
+      "Extension": "2023-08-20 20:50:27 +0800"
     },
     "done": false
   },
@@ -1064,6 +1174,12 @@
     },
     "done": true
   },
+  "sf4:age_power/simulationchamber": {
+    "criteria": {
+      "Obtain Simulation Chamber": "2023-08-20 15:59:17 +0800"
+    },
+    "done": true
+  },
   "sf4:age1/sapling/bone": {
     "criteria": {
       "Completed Root": "2023-08-14 21:07:36 +0800",
@@ -1098,10 +1214,18 @@
     },
     "done": true
   },
+  "sf4:age_power/pristineendermanmatter": {
+    "criteria": {
+      "Obtain Pristine Enderman Matter": "2023-08-20 15:48:17 +0800"
+    },
+    "done": true
+  },
   "sf4:age_allthethingsomglol/modifiermaster": {
     "criteria": {
       "Diamond": "2023-08-16 20:59:36 +0800",
-      "Sharpness": "2023-08-18 18:09:42 +0800"
+      "Sharpness": "2023-08-18 18:09:42 +0800",
+      "Haste": "2023-08-20 14:01:34 +0800",
+      "Luck": "2023-08-20 13:57:38 +0800"
     },
     "done": false
   },
@@ -1142,10 +1266,18 @@
     "criteria": {
       "Completed Generator, I Hardly Know Her§r": "2023-08-17 16:20:14 +0800",
       "Completed Clicker Hero§r": "2023-08-16 21:06:28 +0800",
+      "Completed The Study Guide§r": "2023-08-20 15:47:01 +0800",
       "Completed Package Control§r": "2023-08-17 22:09:46 +0800",
       "Completed Gotta Smelt Fast§r": "2023-08-18 21:52:05 +0800",
+      "Completed What the Heck?!§r": "2023-08-20 20:31:19 +0800",
+      "Completed Extraction, Extraction, Read All About It!§r": "2023-08-20 17:51:18 +0800",
+      "Completed Ctrl-Z§r": "2023-08-20 17:15:08 +0800",
       "Prestige Mode": "2023-08-14 21:07:35 +0800",
-      "Completed Age of Power§r": "2023-08-14 21:07:34 +0800"
+      "Completed Age of Power§r": "2023-08-14 21:07:34 +0800",
+      "Completed Down the Rabbit Hole§r": "2023-08-20 15:59:17 +0800",
+      "Completed The Truth is Out There§r": "2023-08-20 17:49:42 +0800",
+      "Completed The End of all Matter§r": "2023-08-20 15:48:17 +0800",
+      "Completed Withered Away§r": "2023-08-20 20:54:22 +0800"
     },
     "done": false
   },
@@ -1176,9 +1308,10 @@
   },
   "sf4:age_exploration/dragonkill": {
     "criteria": {
-      "Enter Custom End Dimension": "2023-08-16 18:15:45 +0800"
+      "Enter Custom End Dimension": "2023-08-16 18:15:45 +0800",
+      "Enter End Dimension": "2023-08-20 15:52:09 +0800"
     },
-    "done": false
+    "done": true
   },
   "compactmachines:test/5x5x52": {
     "criteria": {
@@ -1196,6 +1329,7 @@
       "Completed Shredded Wheat§r": "2023-08-16 13:16:55 +0800",
       "Completed Condensed Milk§r": "2023-08-17 21:45:19 +0800",
       "Completed Age of Farming§r": "2023-08-14 21:07:34 +0800",
+      "Completed It\u0027s the End of the World As We Know It§r": "2023-08-20 15:17:30 +0800",
       "Completed Nothing Really Mattocks§r": "2023-08-18 21:36:45 +0800",
       "Completed Yes We Can!§r": "2023-08-18 21:38:59 +0800",
       "Completed This Little Piggy§r": "2023-08-16 13:14:12 +0800"
@@ -1241,6 +1375,12 @@
     },
     "done": false
   },
+  "sf4:age_power/pristinewitherskeletonmatter": {
+    "criteria": {
+      "Obtain Pristine Wither Skeleton Matter": "2023-08-20 20:54:22 +0800"
+    },
+    "done": true
+  },
   "sf4:age_allthethingsomglol/complete_no_prestige": {
     "criteria": {
       "Completed Age of ALLTHETHINGSOMGLOL§r": "2023-08-14 21:07:34 +0800"
@@ -1268,7 +1408,21 @@
       "Completed This Little Piggy§r": "2023-08-16 13:14:12 +0800",
       "Completed Sugar Daddy§r": "2023-08-16 18:10:03 +0800",
       "Completed Bonsai!!!§r": "2023-08-15 20:31:09 +0800",
-      "Completed Age of Farming§r": "2023-08-14 21:07:34 +0800"
+      "Completed Age of Farming§r": "2023-08-14 21:07:34 +0800",
+      "Completed It\u0027s the End of the World As We Know It§r": "2023-08-20 15:17:30 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_enhancement/unbreakablepickaxe": {
+    "criteria": {
+      "Obtain Unbreakable Tinkers\u0027 Tool or Weapon": "2023-08-20 18:55:58 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_allthethingsomglol/pristinematter": {
+    "criteria": {
+      "Pristine Wither Skeleton Matter": "2023-08-20 20:54:22 +0800",
+      "Pristine Enderman Matter": "2023-08-20 15:48:17 +0800"
     },
     "done": false
   },
