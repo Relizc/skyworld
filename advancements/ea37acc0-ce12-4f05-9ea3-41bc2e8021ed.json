@@ -1,20 +1,7 @@
 {
-  "sf4:age1/sapling/cottonwood": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Cottonwood Sapling": "2023-08-16 12:43:38 +0800"
-    },
-    "done": true
-  },
   "tutorial:tutorial/oakplanks": {
     "criteria": {
       "Obtain Oak Wood Planks": "2023-08-14 21:09:20 +0800"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/greenslimydirt": {
-    "criteria": {
-      "Obtain Green Slime Dirt": "2023-08-16 13:25:10 +0800"
     },
     "done": false
   },
@@ -88,6 +75,727 @@
     },
     "done": true
   },
+  "sf4:age_power/powercelllow": {
+    "criteria": {
+      "Obtain Low Powercell": "2023-08-22 14:33:38 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_power/upgradeablegenerators": {
+    "criteria": {
+      "Obtain Simple Upgradable Geothermal Generator": "2023-08-22 14:46:07 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/sapling/redstone": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Redstone Sapling": "2023-08-16 12:30:42 +0800"
+    },
+    "done": true
+  },
+  "compactmachines:test/3x3x3": {
+    "criteria": {
+      "Obtain Grass Block": "2023-08-15 20:34:46 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_allthethingsomglol/armormodifiers": {
+    "criteria": {
+      "Speedy": "2023-08-21 21:29:01 +0800",
+      "Diamond": "2023-08-17 15:31:14 +0800",
+      "Telekinetic": "2023-08-21 21:28:26 +0800",
+      "Emerald": "2023-08-20 13:56:47 +0800",
+      "Reinforced": "2023-08-20 13:55:42 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_enhancement/cast": {
+    "criteria": {
+      "Obtain Metal Pickaxe Head Cast": "2023-08-17 15:38:00 +0800"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/copied/sandsapling": {
+    "criteria": {
+      "Obtain Sand Sapling": "2023-08-14 21:36:11 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_power/energizedsmelter": {
+    "criteria": {
+      "Obtain Energized Smelter": "2023-08-18 21:52:05 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_farming/sprinkler": {
+    "criteria": {
+      "Obtain Sprinkler": "2023-08-18 19:38:52 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/slabs": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Furnace Slab": "2023-08-14 21:44:00 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_farming/wateringcan": {
+    "criteria": {
+      "Obtain Watering Can": "2023-08-18 21:38:59 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/lavasource": {
+    "criteria": {
+      "Completed SkyFactory 4§r": "2023-08-14 21:07:36 +0800",
+      "Completed Root": "2023-08-14 21:07:36 +0800"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/resourcehogs": {
+    "criteria": {
+      "Obtain Cobblestone Mud": "2023-08-16 13:13:26 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_exploration/nether": {
+    "criteria": {
+      "Entered Nether": "2023-08-16 18:15:45 +0800"
+    },
+    "done": true
+  },
+  "hardcore:hardcore/forgivingvoid": {
+    "criteria": {
+      "Completed Age of Exploration§r": "2023-08-14 21:07:34 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_storage/simplestoragerequest": {
+    "criteria": {
+      "Obtain Request Block": "2023-08-16 13:08:51 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_enhancement/completenoprestige": {
+    "criteria": {
+      "Completed Gotta Go Fast§r": "2023-08-19 22:16:16 +0800",
+      "Completed Better With Mods§r": "2023-08-16 20:59:36 +0800",
+      "Completed Yo-Yo Ma§r": "2023-08-20 20:46:56 +0800",
+      "Completed Up in Arms§r": "2023-08-23 11:57:07 +0800",
+      "Completed Tim the Tool Man Taylor§r": "2023-08-16 17:40:46 +0800",
+      "Completed To Be ORe Not to Be§r": "2023-08-14 22:04:05 +0800",
+      "Completed Pattern Me, Sir§r": "2023-08-16 17:42:36 +0800",
+      "Completed Forging Ahead§r": "2023-08-16 17:39:19 +0800",
+      "Completed Keep It Between the Lines§r": "2023-08-16 17:40:33 +0800",
+      "Completed Suit Up§r": "2023-08-23 11:57:13 +0800",
+      "Completed Rolling into the Station§r": "2023-08-16 17:38:27 +0800",
+      "Completed Ding!§r": "2023-08-20 11:59:24 +0800",
+      "Completed It\u0027s Over 20!§r": "2023-08-18 18:10:17 +0800",
+      "Completed Age of Enhancement§r": "2023-08-14 21:07:34 +0800",
+      "Completed I\u0027ll Be Your Alloy§r": "2023-08-16 17:51:03 +0800",
+      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2023-08-14 22:18:41 +0800",
+      "Completed Axe Me Anything§r": "2023-08-16 18:03:25 +0800",
+      "Completed Sign My Cast§r": "2023-08-17 15:38:00 +0800",
+      "Completed An Enchanting Evening§r": "2023-08-20 18:44:14 +0800",
+      "Completed Unbroken§r": "2023-08-20 18:55:58 +0800"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/goldsapling": {
+    "criteria": {
+      "Obtain Gold Sapling": "2023-08-15 22:17:08 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_enhancement/armorforge": {
+    "criteria": {
+      "Obtain Armor Forge": "2023-08-23 11:57:13 +0800"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/copied/slabs": {
+    "criteria": {
+      "Obtain Chest Slab": "2023-08-20 19:47:01 +0800",
+      "Obtain Furnace Slab": "2023-08-14 21:44:00 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_power/extraterrestrialmatter": {
+    "criteria": {
+      "Obtain Extraterrestrial Matter": "2023-08-20 17:49:42 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/cauldron": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain a Cauldron": "2023-08-14 21:35:04 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/cobblestone_generator": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Open Chest Filled with Cobblestone": "2023-08-16 13:29:51 +0800"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/copied/cobblestone": {
+    "criteria": {
+      "Obtain Cobblestone Block": "2023-08-14 21:22:32 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/prestige_notify": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "stage": "2023-08-14 21:07:35 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/crushing_tub": {
+    "criteria": {
+      "Obtain Crushing Tub": "2023-08-14 21:23:42 +0800",
+      "Completed Root": "2023-08-14 21:07:36 +0800"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/petrifiedacorn": {
+    "criteria": {
+      "Obtain Oak Wood Planks": "2023-08-14 21:14:56 +0800"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/woodencrook": {
+    "criteria": {
+      "Obtain a Wooden Crook": "2023-08-14 21:11:44 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/donut": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Donut Sapling": "2023-08-16 13:22:23 +0800"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/copied/ironsapling": {
+    "criteria": {
+      "Obtain Iron Sapling": "2023-08-15 20:23:43 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_farming/fertilesoil": {
+    "criteria": {
+      "Obtain Fertile Soil": "2023-08-18 20:42:43 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_power/completenoprestige": {
+    "criteria": {
+      "Completed Generator, I Hardly Know Her§r": "2023-08-17 16:20:14 +0800",
+      "Completed Clicker Hero§r": "2023-08-16 21:06:28 +0800",
+      "Completed The Study Guide§r": "2023-08-20 15:47:01 +0800",
+      "Completed Package Control§r": "2023-08-17 22:09:46 +0800",
+      "Completed Gotta Smelt Fast§r": "2023-08-18 21:52:05 +0800",
+      "Completed What the Heck?!§r": "2023-08-20 20:31:19 +0800",
+      "Completed Extraction, Extraction, Read All About It!§r": "2023-08-20 17:51:18 +0800",
+      "Completed Need iiii Speed§r": "2023-08-22 14:54:15 +0800",
+      "Completed Ctrl-Z§r": "2023-08-20 17:15:08 +0800",
+      "Completed Age of Power§r": "2023-08-14 21:07:34 +0800",
+      "Completed Down the Rabbit Hole§r": "2023-08-20 15:59:17 +0800",
+      "Completed The Truth is Out There§r": "2023-08-20 17:49:42 +0800",
+      "Completed Dead Cells§r": "2023-08-21 21:15:08 +0800",
+      "Completed What\u0027s the Matter with Overworldians?§r": "2023-08-21 20:23:23 +0800",
+      "Completed Max Power§r": "2023-08-22 14:33:38 +0800",
+      "Completed Level Up!§r": "2023-08-22 14:46:07 +0800",
+      "Completed The End of all Matter§r": "2023-08-20 15:48:17 +0800",
+      "Completed Withered Away§r": "2023-08-20 20:54:22 +0800",
+      "Completed Bring Me to Life§r": "2023-08-21 20:21:30 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/clay": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain a Clay Sapling": "2023-08-14 21:36:30 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/cobblestone": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Cobblestone Block": "2023-08-14 21:22:32 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/sapling/gold": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Gold Sapling": "2023-08-15 22:17:08 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_farming/hoppingbonsai": {
+    "criteria": {
+      "Obtain Bonsai Pot": "2023-08-16 13:30:41 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_farming/sugarcaneseed": {
+    "criteria": {
+      "Obtain Sugar Cane Seeds": "2023-08-16 18:09:21 +0800"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/dryingrack": {
+    "criteria": {
+      "Obtain Oak Wood Planks": "2023-08-14 21:13:22 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/acorn/dirt": {
+    "criteria": {
+      "Obtain Dirt Acorn": "2023-08-14 21:09:08 +0800",
+      "Completed Root": "2023-08-14 21:07:36 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "toolforge": "2023-08-16 17:39:19 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_storage/compactstoragechest": {
+    "criteria": {
+      "Obtain Compact Storage Chest": "2023-08-18 20:51:34 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_allthethingsomglol/complete": {
+    "criteria": {
+      "Completed Age of ALLTHETHINGSOMGLOL§r": "2023-08-14 21:07:34 +0800",
+      "Prestige Mode": "2023-08-14 21:07:35 +0800"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/oakwood": {
+    "criteria": {
+      "Obtain Oak Wood": "2023-08-14 21:09:03 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_enhancement/root": {
+    "criteria": {
+      "inventoryChange": "2023-08-14 21:07:34 +0800"
+    },
+    "done": true
+  },
+  "compactmachines:test/9x9x92": {
+    "criteria": {
+      "Obtain Chorus Fruit": "2023-08-18 19:53:35 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_exploration/overworldcake": {
+    "criteria": {
+      "Obtain Overworld Cake": "2023-08-16 18:15:45 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_storage/simplestorageremote": {
+    "criteria": {
+      "Obtain Storage Network Remote": "2023-08-18 09:04:52 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/complete": {
+    "criteria": {
+      "Completed Age of Exploration§r": "2023-08-14 21:07:34 +0800",
+      "Completed Nether Here Nor There§r": "2023-08-16 18:15:45 +0800",
+      "Completed No Cake Like Home§r": "2023-08-16 18:15:45 +0800",
+      "Completed Lost and Found§r": "2023-08-19 22:38:14 +0800",
+      "Prestige Mode": "2023-08-14 21:07:35 +0800",
+      "Completed You\u0027re Boron Me§r": "2023-08-22 21:50:03 +0800",
+      "Completed B\u0027Aiken a C\u0027Aiken§r": "2023-08-20 15:51:39 +0800",
+      "Completed You\u0027re Tritanium to Bring Me Down§r": "2023-08-22 14:54:45 +0800",
+      "Completed Floaty McFloaty§r": "2023-08-23 12:45:27 +0800",
+      "Completed Compact Your World§r": "2023-08-23 10:54:32 +0800",
+      "Completed Even Scotty Doesn\u0027t Know§r": "2023-08-22 21:52:17 +0800",
+      "Completed Where\u0027s the Boss?§r": "2023-08-20 15:52:09 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/dirt": {
+    "criteria": {
+      "Obtain Dirt Sapling": "2023-08-14 21:09:45 +0800",
+      "Completed Root": "2023-08-14 21:07:36 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/resourcehogs": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Cobblestone Mud": "2023-08-16 13:13:26 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/arditeore": {
+    "criteria": {
+      "Obtain Ardite Ore": "2023-08-17 16:16:15 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/green_slimy_dirt": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Green Slime Dirt": "2023-08-16 13:25:10 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_enhancement/tank": {
+    "criteria": {
+      "Obtain Tank": "2023-08-14 22:18:41 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_storage/hopper": {
+    "criteria": {
+      "Obtain Hopper": "2023-08-16 13:30:32 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_allthethingsomglol/truffles": {
+    "criteria": {
+      "Ender": "2023-08-20 15:13:58 +0800",
+      "Steel": "2023-08-17 14:46:44 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/iron_bucket": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Iron Bucket": "2023-08-15 22:27:03 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/compactmachines": {
+    "criteria": {
+      "Enter Compact Machines Dimension": "2023-08-23 10:54:32 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_enhancement/toolstation": {
+    "criteria": {
+      "Obtain Tool Station": "2023-08-16 17:38:27 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/amber/lead": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Lead Amber": "2023-08-15 22:11:43 +0800"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/placedirtsapling": {
+    "criteria": {
+      "Placed Dirt Sapling": "2023-08-14 21:10:22 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_power/uncraftinggrinder": {
+    "criteria": {
+      "Obtain Uncrafting Grinder": "2023-08-20 17:15:08 +0800"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/copied/sleep": {
+    "criteria": {
+      "Slept in a bed": "2023-08-18 18:04:44 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_power/extractionchamber": {
+    "criteria": {
+      "Obtain Loot Fabricator": "2023-08-20 17:51:18 +0800"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/dirtsapling": {
+    "criteria": {
+      "Obtain a Dirt Sapling": "2023-08-14 21:09:45 +0800"
+    },
+    "done": false
+  },
+  "prestige:prestige/parabox": {
+    "criteria": {
+      "hasRock": "2023-08-22 22:47:40 +0800"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/copied/crushingtub": {
+    "criteria": {
+      "Obtain Crushing Tub": "2023-08-14 21:23:42 +0800"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/water": {
+    "criteria": {
+      "Obtain Water in an Iron Bucket": "2023-08-15 22:27:33 +0800",
+      "Obtain Water in a Clay Bucket": "2023-08-14 22:24:20 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling/lapis": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Lapis Sapling": "2023-08-15 22:07:37 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/coal": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Coal": "2023-08-16 13:12:40 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_farming/cowjar": {
+    "criteria": {
+      "Obtain Cow in a Jar": "2023-08-17 21:45:19 +0800"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/copied/iron": {
+    "criteria": {
+      "Obtain Iron Amber": "2023-08-14 22:29:10 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_enhancement/levelup": {
+    "criteria": {
+      "Level Up Tinkers\u0027 Pickaxe": "2023-08-20 11:59:24 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/root": {
+    "criteria": {
+      "inventoryChange": "2023-08-14 21:07:34 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_storage/root": {
+    "criteria": {
+      "inventoryChange": "2023-08-14 21:07:34 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/diamond": {
+    "criteria": {
+      "Obtain Diamond": "2023-08-16 12:45:05 +0800",
+      "Completed Root": "2023-08-14 21:07:36 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/obsidian": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Obsidian": "2023-08-15 22:27:36 +0800"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/copied/lava": {
+    "criteria": {
+      "Obtain Lava Clay Bucket": "2023-08-14 22:28:07 +0800",
+      "Obtain Lava Iron Bucket": "2023-08-16 12:33:17 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_storage/simplestoragecable": {
+    "criteria": {
+      "Obtain Network Cable": "2023-08-16 12:47:02 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/dirt": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Craft Dirt Block": "2023-08-14 21:10:44 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/sapling/coal": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Coal Sapling": "2023-08-14 22:28:24 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_allthethingsomglol/yoyomaster": {
+    "criteria": {
+      "Extension": "2023-08-20 20:50:27 +0800",
+      "Lubricated": "2023-08-21 20:23:47 +0800",
+      "Collecting": "2023-08-21 21:13:46 +0800"
+    },
+    "done": false
+  },
+  "compactmachines:test/5x5x5": {
+    "criteria": {
+      "Obtain Melter": "2023-08-14 22:04:05 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_enhancement/20damage": {
+    "criteria": {
+      "Deal 20 or More Damage": "2023-08-18 18:10:17 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/acorn/dirt_cooked": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Cooked Dirt Acorn": "2023-08-16 13:21:57 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/twerk": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain 8 Dirt Saplings": "2023-08-14 21:12:12 +0800",
+      "Obtain 8 Oak Logs": "2023-08-14 21:20:31 +0800"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/copied/diamondsapling": {
+    "criteria": {
+      "Obtain Diamond Sapling": "2023-08-16 12:35:42 +0800"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/string": {
+    "criteria": {
+      "Obtain Cottonwood Sapling": "2023-08-16 12:43:38 +0800",
+      "Obtain String": "2023-08-16 12:46:19 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_farming/market": {
+    "criteria": {
+      "Obtain Market": "2023-08-16 13:14:12 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/clay_bucket": {
+    "criteria": {
+      "Obtain Unfired Clay Bucket": "2023-08-14 21:38:49 +0800",
+      "Completed Root": "2023-08-14 21:07:36 +0800"
+    },
+    "done": true
+  },
+  "prestige:prestige/root": {
+    "criteria": {
+      "stage": "2023-08-14 21:07:35 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/dragonkill": {
+    "criteria": {
+      "Enter Custom End Dimension": "2023-08-16 18:15:45 +0800",
+      "Enter End Dimension": "2023-08-20 15:52:09 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_farming/complete": {
+    "criteria": {
+      "Completed Sugar Daddy§r": "2023-08-16 18:10:03 +0800",
+      "Completed Bonsai!!!§r": "2023-08-15 20:31:09 +0800",
+      "Completed Citizen Cane§r": "2023-08-16 18:09:21 +0800",
+      "Prestige Mode": "2023-08-14 21:07:35 +0800",
+      "Completed Sick Sprinkler§r": "2023-08-18 19:38:52 +0800",
+      "Completed Shredded Wheat§r": "2023-08-16 13:16:55 +0800",
+      "Completed Condensed Milk§r": "2023-08-17 21:45:19 +0800",
+      "Completed Age of Farming§r": "2023-08-14 21:07:34 +0800",
+      "Completed It\u0027s the End of the World As We Know It§r": "2023-08-20 15:17:30 +0800",
+      "Completed Nothing Really Mattocks§r": "2023-08-18 21:36:45 +0800",
+      "Completed Yes We Can!§r": "2023-08-18 21:38:59 +0800",
+      "Completed This Little Piggy§r": "2023-08-16 13:14:12 +0800"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/ironingot": {
+    "criteria": {
+      "Obtain Iron Ingot": "2023-08-15 22:23:46 +0800"
+    },
+    "done": false
+  },
+  "tutorial:tutorial/copied/ironbucket": {
+    "criteria": {
+      "Obtain Iron Bucket": "2023-08-15 22:27:03 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_power/zombiedatamodel": {
+    "criteria": {
+      "Obtain Zombie Data Model": "2023-08-21 20:21:30 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/drying_rack": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Drying Rack": "2023-08-14 21:13:22 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_allthethingsomglol/complete_no_prestige": {
+    "criteria": {
+      "Completed Age of ALLTHETHINGSOMGLOL§r": "2023-08-14 21:07:34 +0800"
+    },
+    "done": false
+  },
+  "sf4:age1/sapling": {
+    "criteria": {
+      "Completed SkyFactory 4§r": "2023-08-14 21:07:36 +0800",
+      "Has Sapling": "2023-08-14 21:09:45 +0800",
+      "Completed Root": "2023-08-14 21:07:36 +0800"
+    },
+    "done": false
+  },
+  "sf4:age_enhancement/unbreakablepickaxe": {
+    "criteria": {
+      "Obtain Unbreakable Tinkers\u0027 Tool or Weapon": "2023-08-20 18:55:58 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_enhancement/toolforge": {
+    "criteria": {
+      "Obtain Tool Forge": "2023-08-16 17:39:19 +0800"
+    },
+    "done": true
+  },
+  "sf4:age1/sapling/cottonwood": {
+    "criteria": {
+      "Completed Root": "2023-08-14 21:07:36 +0800",
+      "Obtain Cottonwood Sapling": "2023-08-16 12:43:38 +0800"
+    },
+    "done": true
+  },
+  "prestige:prestige/space_time_equalizer": {
+    "criteria": {
+      "Acquire Space Time Equalizer": "2023-08-22 22:41:42 +0800"
+    },
+    "done": true
+  },
+  "tutorial:tutorial/copied/greenslimydirt": {
+    "criteria": {
+      "Obtain Green Slime Dirt": "2023-08-16 13:25:10 +0800"
+    },
+    "done": false
+  },
   "sf4:age_exploration/cobaltore": {
     "criteria": {
       "Obtain Cobalt Ore": "2023-08-17 16:08:59 +0800"
@@ -146,26 +854,11 @@
     },
     "done": true
   },
-  "sf4:age1/sapling/redstone": {
+  "sf4:age_power/overworldianmatter": {
     "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Redstone Sapling": "2023-08-16 12:30:42 +0800"
+      "Obtain Overworldian Matter": "2023-08-21 20:23:23 +0800"
     },
     "done": true
-  },
-  "compactmachines:test/3x3x3": {
-    "criteria": {
-      "Obtain Grass Block": "2023-08-15 20:34:46 +0800"
-    },
-    "done": false
-  },
-  "sf4:age_allthethingsomglol/armormodifiers": {
-    "criteria": {
-      "Diamond": "2023-08-17 15:31:14 +0800",
-      "Emerald": "2023-08-20 13:56:47 +0800",
-      "Reinforced": "2023-08-20 13:55:42 +0800"
-    },
-    "done": false
   },
   "sf4:age1/sapling/tin": {
     "criteria": {
@@ -180,15 +873,15 @@
     },
     "done": true
   },
-  "sf4:age_enhancement/cast": {
-    "criteria": {
-      "Obtain Metal Pickaxe Head Cast": "2023-08-17 15:38:00 +0800"
-    },
-    "done": true
-  },
   "sf4:age_exploration/lostcities": {
     "criteria": {
       "Entered Lost Cities Dimension": "2023-08-19 22:38:14 +0800"
+    },
+    "done": true
+  },
+  "sf4:age_exploration/tritaniumore": {
+    "criteria": {
+      "Obtain Ice Tritanium Ore": "2023-08-22 14:54:45 +0800"
     },
     "done": true
   },
@@ -196,18 +889,6 @@
     "criteria": {
       "Completed Root": "2023-08-14 21:07:36 +0800",
       "Obtain Wooden Crook": "2023-08-14 21:11:44 +0800"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/copied/sandsapling": {
-    "criteria": {
-      "Obtain Sand Sapling": "2023-08-14 21:36:11 +0800"
-    },
-    "done": false
-  },
-  "sf4:age_power/energizedsmelter": {
-    "criteria": {
-      "Obtain Energized Smelter": "2023-08-18 21:52:05 +0800"
     },
     "done": true
   },
@@ -222,12 +903,6 @@
       "hasRock": "2023-08-14 21:07:36 +0800"
     },
     "done": false
-  },
-  "sf4:age_farming/sprinkler": {
-    "criteria": {
-      "Obtain Sprinkler": "2023-08-18 19:38:52 +0800"
-    },
-    "done": true
   },
   "sf4:age_storage/complete": {
     "criteria": {
@@ -260,22 +935,9 @@
     },
     "done": true
   },
-  "sf4:age1/slabs": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Furnace Slab": "2023-08-14 21:44:00 +0800"
-    },
-    "done": true
-  },
   "sf4:age_farming/wheatseeds": {
     "criteria": {
       "Obtain Wheat Seeds": "2023-08-16 13:16:55 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_farming/wateringcan": {
-    "criteria": {
-      "Obtain Watering Can": "2023-08-18 21:38:59 +0800"
     },
     "done": true
   },
@@ -291,69 +953,9 @@
     },
     "done": true
   },
-  "sf4:age1/lavasource": {
-    "criteria": {
-      "Completed SkyFactory 4§r": "2023-08-14 21:07:36 +0800",
-      "Completed Root": "2023-08-14 21:07:36 +0800"
-    },
-    "done": false
-  },
   "tutorial:tutorial/copied/petrifiedsapling": {
     "criteria": {
       "Obtain Petrified Sapling": "2023-08-14 21:16:58 +0800"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/resourcehogs": {
-    "criteria": {
-      "Obtain Cobblestone Mud": "2023-08-16 13:13:26 +0800"
-    },
-    "done": false
-  },
-  "sf4:age_exploration/nether": {
-    "criteria": {
-      "Entered Nether": "2023-08-16 18:15:45 +0800"
-    },
-    "done": true
-  },
-  "hardcore:hardcore/forgivingvoid": {
-    "criteria": {
-      "Completed Age of Exploration§r": "2023-08-14 21:07:34 +0800"
-    },
-    "done": false
-  },
-  "sf4:age_storage/simplestoragerequest": {
-    "criteria": {
-      "Obtain Request Block": "2023-08-16 13:08:51 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_enhancement/completenoprestige": {
-    "criteria": {
-      "Completed Gotta Go Fast§r": "2023-08-19 22:16:16 +0800",
-      "Completed Better With Mods§r": "2023-08-16 20:59:36 +0800",
-      "Completed Yo-Yo Ma§r": "2023-08-20 20:46:56 +0800",
-      "Completed Tim the Tool Man Taylor§r": "2023-08-16 17:40:46 +0800",
-      "Completed To Be ORe Not to Be§r": "2023-08-14 22:04:05 +0800",
-      "Completed Pattern Me, Sir§r": "2023-08-16 17:42:36 +0800",
-      "Completed Forging Ahead§r": "2023-08-16 17:39:19 +0800",
-      "Completed Keep It Between the Lines§r": "2023-08-16 17:40:33 +0800",
-      "Completed Rolling into the Station§r": "2023-08-16 17:38:27 +0800",
-      "Completed Ding!§r": "2023-08-20 11:59:24 +0800",
-      "Completed It\u0027s Over 20!§r": "2023-08-18 18:10:17 +0800",
-      "Completed Age of Enhancement§r": "2023-08-14 21:07:34 +0800",
-      "Completed I\u0027ll Be Your Alloy§r": "2023-08-16 17:51:03 +0800",
-      "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2023-08-14 22:18:41 +0800",
-      "Completed Axe Me Anything§r": "2023-08-16 18:03:25 +0800",
-      "Completed Sign My Cast§r": "2023-08-17 15:38:00 +0800",
-      "Completed An Enchanting Evening§r": "2023-08-20 18:44:14 +0800",
-      "Completed Unbroken§r": "2023-08-20 18:55:58 +0800"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/goldsapling": {
-    "criteria": {
-      "Obtain Gold Sapling": "2023-08-15 22:17:08 +0800"
     },
     "done": false
   },
@@ -424,6 +1026,12 @@
     },
     "done": false
   },
+  "prestige:prestige/energy_cube": {
+    "criteria": {
+      "Acquire Advanced Energy Cube": "2023-08-22 22:46:30 +0800"
+    },
+    "done": true
+  },
   "sf4:age_farming/root": {
     "criteria": {
       "inventoryChange": "2023-08-14 21:07:34 +0800"
@@ -436,7 +1044,12 @@
       "Completed Nether Here Nor There§r": "2023-08-16 18:15:45 +0800",
       "Completed No Cake Like Home§r": "2023-08-16 18:15:45 +0800",
       "Completed Lost and Found§r": "2023-08-19 22:38:14 +0800",
+      "Completed You\u0027re Boron Me§r": "2023-08-22 21:50:03 +0800",
       "Completed B\u0027Aiken a C\u0027Aiken§r": "2023-08-20 15:51:39 +0800",
+      "Completed You\u0027re Tritanium to Bring Me Down§r": "2023-08-22 14:54:45 +0800",
+      "Completed Floaty McFloaty§r": "2023-08-23 12:45:27 +0800",
+      "Completed Compact Your World§r": "2023-08-23 10:54:32 +0800",
+      "Completed Even Scotty Doesn\u0027t Know§r": "2023-08-22 21:52:17 +0800",
       "Completed Where\u0027s the Boss?§r": "2023-08-20 15:52:09 +0800"
     },
     "done": false
@@ -446,13 +1059,6 @@
       "inventoryChange": "2023-08-14 21:07:34 +0800"
     },
     "done": true
-  },
-  "tutorial:tutorial/copied/slabs": {
-    "criteria": {
-      "Obtain Chest Slab": "2023-08-20 19:47:01 +0800",
-      "Obtain Furnace Slab": "2023-08-14 21:44:00 +0800"
-    },
-    "done": false
   },
   "sf4:age_enhancement/yoyo": {
     "criteria": {
@@ -485,12 +1091,6 @@
     },
     "done": true
   },
-  "sf4:age_power/extraterrestrialmatter": {
-    "criteria": {
-      "Obtain Extraterrestrial Matter": "2023-08-20 17:49:42 +0800"
-    },
-    "done": true
-  },
   "sf4:age1/sapling/lead": {
     "criteria": {
       "Completed Root": "2023-08-14 21:07:36 +0800",
@@ -518,9 +1118,16 @@
     },
     "done": false
   },
+  "sf4:age_exploration/boronore": {
+    "criteria": {
+      "Obtain Boron Ore": "2023-08-22 21:50:03 +0800"
+    },
+    "done": true
+  },
   "sf4:age_farming/animalseeds": {
     "criteria": {
       "Enderman Seed": "2023-08-19 22:29:45 +0800",
+      "Zombie Seed": "2023-08-21 20:17:29 +0800",
       "Pig Seed": "2023-08-16 13:19:04 +0800"
     },
     "done": false
@@ -528,26 +1135,6 @@
   "compactmachines:test/7x7x72": {
     "criteria": {
       "Obtain Eye of Ender": "2023-08-20 15:06:40 +0800"
-    },
-    "done": false
-  },
-  "sf4:age1/cauldron": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain a Cauldron": "2023-08-14 21:35:04 +0800"
-    },
-    "done": true
-  },
-  "sf4:age1/cobblestone_generator": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Open Chest Filled with Cobblestone": "2023-08-16 13:29:51 +0800"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/copied/cobblestone": {
-    "criteria": {
-      "Obtain Cobblestone Block": "2023-08-14 21:22:32 +0800"
     },
     "done": false
   },
@@ -563,26 +1150,6 @@
       "Obtain Gravel Sapling": "2023-08-14 21:30:27 +0800"
     },
     "done": true
-  },
-  "sf4:age1/prestige_notify": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "stage": "2023-08-14 21:07:35 +0800"
-    },
-    "done": true
-  },
-  "sf4:age1/crushing_tub": {
-    "criteria": {
-      "Obtain Crushing Tub": "2023-08-14 21:23:42 +0800",
-      "Completed Root": "2023-08-14 21:07:36 +0800"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/petrifiedacorn": {
-    "criteria": {
-      "Obtain Oak Wood Planks": "2023-08-14 21:14:56 +0800"
-    },
-    "done": false
   },
   "sf4:age1/lava": {
     "criteria": {
@@ -603,86 +1170,10 @@
     },
     "done": true
   },
-  "tutorial:tutorial/woodencrook": {
-    "criteria": {
-      "Obtain a Wooden Crook": "2023-08-14 21:11:44 +0800"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/donut": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Donut Sapling": "2023-08-16 13:22:23 +0800"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/copied/ironsapling": {
-    "criteria": {
-      "Obtain Iron Sapling": "2023-08-15 20:23:43 +0800"
-    },
-    "done": false
-  },
-  "sf4:age_farming/fertilesoil": {
-    "criteria": {
-      "Obtain Fertile Soil": "2023-08-18 20:42:43 +0800"
-    },
-    "done": true
-  },
   "sf4:age1/sapling/silver": {
     "criteria": {
       "Completed Root": "2023-08-14 21:07:36 +0800",
       "Obtain Silver Sapling": "2023-08-16 12:21:15 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_power/completenoprestige": {
-    "criteria": {
-      "Completed Generator, I Hardly Know Her§r": "2023-08-17 16:20:14 +0800",
-      "Completed Clicker Hero§r": "2023-08-16 21:06:28 +0800",
-      "Completed The Study Guide§r": "2023-08-20 15:47:01 +0800",
-      "Completed Package Control§r": "2023-08-17 22:09:46 +0800",
-      "Completed Gotta Smelt Fast§r": "2023-08-18 21:52:05 +0800",
-      "Completed What the Heck?!§r": "2023-08-20 20:31:19 +0800",
-      "Completed Extraction, Extraction, Read All About It!§r": "2023-08-20 17:51:18 +0800",
-      "Completed Ctrl-Z§r": "2023-08-20 17:15:08 +0800",
-      "Completed Age of Power§r": "2023-08-14 21:07:34 +0800",
-      "Completed Down the Rabbit Hole§r": "2023-08-20 15:59:17 +0800",
-      "Completed The Truth is Out There§r": "2023-08-20 17:49:42 +0800",
-      "Completed The End of all Matter§r": "2023-08-20 15:48:17 +0800",
-      "Completed Withered Away§r": "2023-08-20 20:54:22 +0800"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/clay": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain a Clay Sapling": "2023-08-14 21:36:30 +0800"
-    },
-    "done": true
-  },
-  "sf4:age1/cobblestone": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Cobblestone Block": "2023-08-14 21:22:32 +0800"
-    },
-    "done": true
-  },
-  "sf4:age1/sapling/gold": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Gold Sapling": "2023-08-15 22:17:08 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_farming/hoppingbonsai": {
-    "criteria": {
-      "Obtain Bonsai Pot": "2023-08-16 13:30:41 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_farming/sugarcaneseed": {
-    "criteria": {
-      "Obtain Sugar Cane Seeds": "2023-08-16 18:09:21 +0800"
     },
     "done": true
   },
@@ -691,12 +1182,6 @@
       "Obtain Tinkers\u0027 Lumber Axe": "2023-08-16 18:03:25 +0800"
     },
     "done": true
-  },
-  "tutorial:tutorial/dryingrack": {
-    "criteria": {
-      "Obtain Oak Wood Planks": "2023-08-14 21:13:22 +0800"
-    },
-    "done": false
   },
   "sf4:age_enhancement/glitcharmor": {
     "criteria": {
@@ -718,91 +1203,9 @@
     },
     "done": false
   },
-  "sf4:age1/acorn/dirt": {
-    "criteria": {
-      "Obtain Dirt Acorn": "2023-08-14 21:09:08 +0800",
-      "Completed Root": "2023-08-14 21:07:36 +0800"
-    },
-    "done": true
-  },
-  "twilightforest:alt/compat/tconstruct": {
-    "criteria": {
-      "toolforge": "2023-08-16 17:39:19 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_storage/compactstoragechest": {
-    "criteria": {
-      "Obtain Compact Storage Chest": "2023-08-18 20:51:34 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_allthethingsomglol/complete": {
-    "criteria": {
-      "Completed Age of ALLTHETHINGSOMGLOL§r": "2023-08-14 21:07:34 +0800",
-      "Prestige Mode": "2023-08-14 21:07:35 +0800"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/oakwood": {
-    "criteria": {
-      "Obtain Oak Wood": "2023-08-14 21:09:03 +0800"
-    },
-    "done": false
-  },
-  "sf4:age_enhancement/root": {
-    "criteria": {
-      "inventoryChange": "2023-08-14 21:07:34 +0800"
-    },
-    "done": true
-  },
-  "compactmachines:test/9x9x92": {
-    "criteria": {
-      "Obtain Chorus Fruit": "2023-08-18 19:53:35 +0800"
-    },
-    "done": false
-  },
-  "sf4:age_exploration/overworldcake": {
-    "criteria": {
-      "Obtain Overworld Cake": "2023-08-16 18:15:45 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_storage/simplestorageremote": {
-    "criteria": {
-      "Obtain Storage Network Remote": "2023-08-18 09:04:52 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_exploration/complete": {
-    "criteria": {
-      "Completed Age of Exploration§r": "2023-08-14 21:07:34 +0800",
-      "Completed Nether Here Nor There§r": "2023-08-16 18:15:45 +0800",
-      "Completed No Cake Like Home§r": "2023-08-16 18:15:45 +0800",
-      "Completed Lost and Found§r": "2023-08-19 22:38:14 +0800",
-      "Prestige Mode": "2023-08-14 21:07:35 +0800",
-      "Completed B\u0027Aiken a C\u0027Aiken§r": "2023-08-20 15:51:39 +0800",
-      "Completed Where\u0027s the Boss?§r": "2023-08-20 15:52:09 +0800"
-    },
-    "done": false
-  },
-  "sf4:age1/sapling/dirt": {
-    "criteria": {
-      "Obtain Dirt Sapling": "2023-08-14 21:09:45 +0800",
-      "Completed Root": "2023-08-14 21:07:36 +0800"
-    },
-    "done": true
-  },
   "sf4:age_enhancement/alloytank": {
     "criteria": {
       "Obtain Seared Alloying Tank": "2023-08-16 17:51:03 +0800"
-    },
-    "done": true
-  },
-  "sf4:age1/resourcehogs": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Cobblestone Mud": "2023-08-16 13:13:26 +0800"
     },
     "done": true
   },
@@ -810,45 +1213,6 @@
     "criteria": {
       "Completed Root": "2023-08-14 21:07:36 +0800",
       "Obtain Iron Ingot": "2023-08-15 22:23:46 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_exploration/arditeore": {
-    "criteria": {
-      "Obtain Ardite Ore": "2023-08-17 16:16:15 +0800"
-    },
-    "done": true
-  },
-  "sf4:age1/green_slimy_dirt": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Green Slime Dirt": "2023-08-16 13:25:10 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_enhancement/tank": {
-    "criteria": {
-      "Obtain Tank": "2023-08-14 22:18:41 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_storage/hopper": {
-    "criteria": {
-      "Obtain Hopper": "2023-08-16 13:30:32 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_allthethingsomglol/truffles": {
-    "criteria": {
-      "Ender": "2023-08-20 15:13:58 +0800",
-      "Steel": "2023-08-17 14:46:44 +0800"
-    },
-    "done": false
-  },
-  "sf4:age1/iron_bucket": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Iron Bucket": "2023-08-15 22:27:03 +0800"
     },
     "done": true
   },
@@ -871,36 +1235,11 @@
     },
     "done": true
   },
-  "sf4:age_enhancement/toolstation": {
+  "sf4:age_exploration/dilithiumore": {
     "criteria": {
-      "Obtain Tool Station": "2023-08-16 17:38:27 +0800"
+      "Obtain Dilithium Crystals": "2023-08-22 21:52:17 +0800"
     },
     "done": true
-  },
-  "sf4:age1/amber/lead": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Lead Amber": "2023-08-15 22:11:43 +0800"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/placedirtsapling": {
-    "criteria": {
-      "Placed Dirt Sapling": "2023-08-14 21:10:22 +0800"
-    },
-    "done": false
-  },
-  "sf4:age_power/uncraftinggrinder": {
-    "criteria": {
-      "Obtain Uncrafting Grinder": "2023-08-20 17:15:08 +0800"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/copied/sleep": {
-    "criteria": {
-      "Slept in a bed": "2023-08-18 18:04:44 +0800"
-    },
-    "done": false
   },
   "sf4:age_power/deeplearner": {
     "criteria": {
@@ -914,18 +1253,6 @@
       "Obtain Gold Amber": "2023-08-15 22:15:20 +0800"
     },
     "done": true
-  },
-  "sf4:age_power/extractionchamber": {
-    "criteria": {
-      "Obtain Loot Fabricator": "2023-08-20 17:51:18 +0800"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/dirtsapling": {
-    "criteria": {
-      "Obtain a Dirt Sapling": "2023-08-14 21:09:45 +0800"
-    },
-    "done": false
   },
   "tutorial:tutorial/copied/cauldron": {
     "criteria": {
@@ -948,6 +1275,7 @@
       "Obtain Lapis Sapling": "2023-08-15 22:07:37 +0800",
       "Obtain Bacon Sapling": "2023-08-16 13:22:27 +0800",
       "Obtain Donut Sapling": "2023-08-16 13:22:23 +0800",
+      "Obtain Glowstone Sapling": "2023-08-22 14:26:57 +0800",
       "Obtain Emerald Sapling": "2023-08-20 15:26:01 +0800",
       "Obtain Petrified Sapling": "2023-08-14 21:16:58 +0800",
       "Obtain Tin Sapling": "2023-08-16 12:12:12 +0800",
@@ -964,22 +1292,15 @@
     },
     "done": false
   },
+  "sf4:age_exploration/floaty": {
+    "criteria": {
+      "Obtain Floaty McFloaty Block": "2023-08-23 12:45:27 +0800"
+    },
+    "done": true
+  },
   "sf4:age_exploration/skygriddragonkill": {
     "criteria": {
       "Completed Age of Exploration§r": "2023-08-14 21:07:34 +0800"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/crushingtub": {
-    "criteria": {
-      "Obtain Crushing Tub": "2023-08-14 21:23:42 +0800"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/water": {
-    "criteria": {
-      "Obtain Water in an Iron Bucket": "2023-08-15 22:27:33 +0800",
-      "Obtain Water in a Clay Bucket": "2023-08-14 22:24:20 +0800"
     },
     "done": false
   },
@@ -988,44 +1309,6 @@
       "Obtain Nether Star": "2023-08-20 21:29:08 +0800"
     },
     "done": false
-  },
-  "sf4:age1/sapling/lapis": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Lapis Sapling": "2023-08-15 22:07:37 +0800"
-    },
-    "done": true
-  },
-  "sf4:age1/coal": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Coal": "2023-08-16 13:12:40 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_farming/cowjar": {
-    "criteria": {
-      "Obtain Cow in a Jar": "2023-08-17 21:45:19 +0800"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/copied/iron": {
-    "criteria": {
-      "Obtain Iron Amber": "2023-08-14 22:29:10 +0800"
-    },
-    "done": false
-  },
-  "sf4:age_enhancement/levelup": {
-    "criteria": {
-      "Level Up Tinkers\u0027 Pickaxe": "2023-08-20 11:59:24 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_exploration/root": {
-    "criteria": {
-      "inventoryChange": "2023-08-14 21:07:34 +0800"
-    },
-    "done": true
   },
   "sf4:age_enhancement/speedupgrade": {
     "criteria": {
@@ -1039,33 +1322,6 @@
     },
     "done": false
   },
-  "sf4:age_storage/root": {
-    "criteria": {
-      "inventoryChange": "2023-08-14 21:07:34 +0800"
-    },
-    "done": true
-  },
-  "sf4:age1/diamond": {
-    "criteria": {
-      "Obtain Diamond": "2023-08-16 12:45:05 +0800",
-      "Completed Root": "2023-08-14 21:07:36 +0800"
-    },
-    "done": true
-  },
-  "sf4:age1/obsidian": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Obsidian": "2023-08-15 22:27:36 +0800"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/copied/lava": {
-    "criteria": {
-      "Obtain Lava Clay Bucket": "2023-08-14 22:28:07 +0800",
-      "Obtain Lava Iron Bucket": "2023-08-16 12:33:17 +0800"
-    },
-    "done": false
-  },
   "sf4:age1/sapling/sand": {
     "criteria": {
       "Completed Root": "2023-08-14 21:07:36 +0800",
@@ -1073,23 +1329,9 @@
     },
     "done": true
   },
-  "sf4:age_storage/simplestoragecable": {
+  "sf4:age_enhancement/armorstation": {
     "criteria": {
-      "Obtain Network Cable": "2023-08-16 12:47:02 +0800"
-    },
-    "done": true
-  },
-  "sf4:age1/dirt": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Craft Dirt Block": "2023-08-14 21:10:44 +0800"
-    },
-    "done": true
-  },
-  "sf4:age1/sapling/coal": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Coal Sapling": "2023-08-14 22:28:24 +0800"
+      "Obtain Armor Station": "2023-08-23 11:57:07 +0800"
     },
     "done": true
   },
@@ -1104,12 +1346,14 @@
       "Completed Gotta Go Fast§r": "2023-08-19 22:16:16 +0800",
       "Completed Better With Mods§r": "2023-08-16 20:59:36 +0800",
       "Completed Yo-Yo Ma§r": "2023-08-20 20:46:56 +0800",
+      "Completed Up in Arms§r": "2023-08-23 11:57:07 +0800",
       "Completed Tim the Tool Man Taylor§r": "2023-08-16 17:40:46 +0800",
       "Completed To Be ORe Not to Be§r": "2023-08-14 22:04:05 +0800",
       "Completed Pattern Me, Sir§r": "2023-08-16 17:42:36 +0800",
       "Completed Forging Ahead§r": "2023-08-16 17:39:19 +0800",
       "Prestige Mode": "2023-08-14 21:07:35 +0800",
       "Completed Keep It Between the Lines§r": "2023-08-16 17:40:33 +0800",
+      "Completed Suit Up§r": "2023-08-23 11:57:13 +0800",
       "Completed Rolling into the Station§r": "2023-08-16 17:38:27 +0800",
       "Completed Ding!§r": "2023-08-20 11:59:24 +0800",
       "Completed It\u0027s Over 20!§r": "2023-08-18 18:10:17 +0800",
@@ -1123,27 +1367,9 @@
     },
     "done": false
   },
-  "sf4:age_allthethingsomglol/yoyomaster": {
-    "criteria": {
-      "Extension": "2023-08-20 20:50:27 +0800"
-    },
-    "done": false
-  },
-  "compactmachines:test/5x5x5": {
-    "criteria": {
-      "Obtain Melter": "2023-08-14 22:04:05 +0800"
-    },
-    "done": false
-  },
   "sf4:age_enhancement/tconmodifier": {
     "criteria": {
       "Apply 1 Modifer": "2023-08-16 20:59:36 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_enhancement/20damage": {
-    "criteria": {
-      "Deal 20 or More Damage": "2023-08-18 18:10:17 +0800"
     },
     "done": true
   },
@@ -1201,13 +1427,6 @@
     },
     "done": true
   },
-  "sf4:age1/acorn/dirt_cooked": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Cooked Dirt Acorn": "2023-08-16 13:21:57 +0800"
-    },
-    "done": true
-  },
   "sf4:age_farming/sugarcanesnad": {
     "criteria": {
       "Placed Snad": "2023-08-16 18:10:03 +0800"
@@ -1229,20 +1448,6 @@
     },
     "done": false
   },
-  "sf4:age1/twerk": {
-    "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain 8 Dirt Saplings": "2023-08-14 21:12:12 +0800",
-      "Obtain 8 Oak Logs": "2023-08-14 21:20:31 +0800"
-    },
-    "done": true
-  },
-  "tutorial:tutorial/copied/diamondsapling": {
-    "criteria": {
-      "Obtain Diamond Sapling": "2023-08-16 12:35:42 +0800"
-    },
-    "done": false
-  },
   "sf4:age_storage/simplestoragemaster": {
     "criteria": {
       "Obtain Network Master Block": "2023-08-16 13:06:42 +0800"
@@ -1255,13 +1460,6 @@
     },
     "done": false
   },
-  "tutorial:tutorial/copied/string": {
-    "criteria": {
-      "Obtain Cottonwood Sapling": "2023-08-16 12:43:38 +0800",
-      "Obtain String": "2023-08-16 12:46:19 +0800"
-    },
-    "done": false
-  },
   "sf4:age_power/complete": {
     "criteria": {
       "Completed Generator, I Hardly Know Her§r": "2023-08-17 16:20:14 +0800",
@@ -1271,19 +1469,25 @@
       "Completed Gotta Smelt Fast§r": "2023-08-18 21:52:05 +0800",
       "Completed What the Heck?!§r": "2023-08-20 20:31:19 +0800",
       "Completed Extraction, Extraction, Read All About It!§r": "2023-08-20 17:51:18 +0800",
+      "Completed Need iiii Speed§r": "2023-08-22 14:54:15 +0800",
       "Completed Ctrl-Z§r": "2023-08-20 17:15:08 +0800",
       "Prestige Mode": "2023-08-14 21:07:35 +0800",
       "Completed Age of Power§r": "2023-08-14 21:07:34 +0800",
       "Completed Down the Rabbit Hole§r": "2023-08-20 15:59:17 +0800",
       "Completed The Truth is Out There§r": "2023-08-20 17:49:42 +0800",
+      "Completed Dead Cells§r": "2023-08-21 21:15:08 +0800",
+      "Completed What\u0027s the Matter with Overworldians?§r": "2023-08-21 20:23:23 +0800",
+      "Completed Max Power§r": "2023-08-22 14:33:38 +0800",
+      "Completed Level Up!§r": "2023-08-22 14:46:07 +0800",
       "Completed The End of all Matter§r": "2023-08-20 15:48:17 +0800",
-      "Completed Withered Away§r": "2023-08-20 20:54:22 +0800"
+      "Completed Withered Away§r": "2023-08-20 20:54:22 +0800",
+      "Completed Bring Me to Life§r": "2023-08-21 20:21:30 +0800"
     },
     "done": false
   },
-  "sf4:age_farming/market": {
+  "sf4:age_power/pristinezombiematter": {
     "criteria": {
-      "Obtain Market": "2023-08-16 13:14:12 +0800"
+      "Obtain Pristine Zombie Matter": "2023-08-21 21:15:08 +0800"
     },
     "done": true
   },
@@ -1293,46 +1497,9 @@
     },
     "done": false
   },
-  "sf4:age1/clay_bucket": {
-    "criteria": {
-      "Obtain Unfired Clay Bucket": "2023-08-14 21:38:49 +0800",
-      "Completed Root": "2023-08-14 21:07:36 +0800"
-    },
-    "done": true
-  },
-  "prestige:prestige/root": {
-    "criteria": {
-      "stage": "2023-08-14 21:07:35 +0800"
-    },
-    "done": true
-  },
-  "sf4:age_exploration/dragonkill": {
-    "criteria": {
-      "Enter Custom End Dimension": "2023-08-16 18:15:45 +0800",
-      "Enter End Dimension": "2023-08-20 15:52:09 +0800"
-    },
-    "done": true
-  },
   "compactmachines:test/5x5x52": {
     "criteria": {
       "Craft Simple Geothermal Generator": "2023-08-17 16:20:14 +0800"
-    },
-    "done": false
-  },
-  "sf4:age_farming/complete": {
-    "criteria": {
-      "Completed Sugar Daddy§r": "2023-08-16 18:10:03 +0800",
-      "Completed Bonsai!!!§r": "2023-08-15 20:31:09 +0800",
-      "Completed Citizen Cane§r": "2023-08-16 18:09:21 +0800",
-      "Prestige Mode": "2023-08-14 21:07:35 +0800",
-      "Completed Sick Sprinkler§r": "2023-08-18 19:38:52 +0800",
-      "Completed Shredded Wheat§r": "2023-08-16 13:16:55 +0800",
-      "Completed Condensed Milk§r": "2023-08-17 21:45:19 +0800",
-      "Completed Age of Farming§r": "2023-08-14 21:07:34 +0800",
-      "Completed It\u0027s the End of the World As We Know It§r": "2023-08-20 15:17:30 +0800",
-      "Completed Nothing Really Mattocks§r": "2023-08-18 21:36:45 +0800",
-      "Completed Yes We Can!§r": "2023-08-18 21:38:59 +0800",
-      "Completed This Little Piggy§r": "2023-08-16 13:14:12 +0800"
     },
     "done": false
   },
@@ -1343,28 +1510,15 @@
     },
     "done": true
   },
-  "tutorial:tutorial/copied/ironingot": {
-    "criteria": {
-      "Obtain Iron Ingot": "2023-08-15 22:23:46 +0800"
-    },
-    "done": false
-  },
-  "tutorial:tutorial/copied/ironbucket": {
-    "criteria": {
-      "Obtain Iron Bucket": "2023-08-15 22:27:03 +0800"
-    },
-    "done": false
-  },
   "sf4:age_power/autoclicker": {
     "criteria": {
       "Obtain Auto Clicker": "2023-08-16 21:06:28 +0800"
     },
     "done": true
   },
-  "sf4:age1/drying_rack": {
+  "prestige:prestige/clock": {
     "criteria": {
-      "Completed Root": "2023-08-14 21:07:36 +0800",
-      "Obtain Drying Rack": "2023-08-14 21:13:22 +0800"
+      "Acquire Clock": "2023-08-22 22:42:06 +0800"
     },
     "done": true
   },
@@ -1381,19 +1535,11 @@
     },
     "done": true
   },
-  "sf4:age_allthethingsomglol/complete_no_prestige": {
+  "sf4:age_power/speedmodifier": {
     "criteria": {
-      "Completed Age of ALLTHETHINGSOMGLOL§r": "2023-08-14 21:07:34 +0800"
+      "Obtain Speed Modifier": "2023-08-22 14:54:15 +0800"
     },
-    "done": false
-  },
-  "sf4:age1/sapling": {
-    "criteria": {
-      "Completed SkyFactory 4§r": "2023-08-14 21:07:36 +0800",
-      "Has Sapling": "2023-08-14 21:09:45 +0800",
-      "Completed Root": "2023-08-14 21:07:36 +0800"
-    },
-    "done": false
+    "done": true
   },
   "sf4:age_farming/complete_no_prestige": {
     "criteria": {
@@ -1413,24 +1559,13 @@
     },
     "done": false
   },
-  "sf4:age_enhancement/unbreakablepickaxe": {
-    "criteria": {
-      "Obtain Unbreakable Tinkers\u0027 Tool or Weapon": "2023-08-20 18:55:58 +0800"
-    },
-    "done": true
-  },
   "sf4:age_allthethingsomglol/pristinematter": {
     "criteria": {
       "Pristine Wither Skeleton Matter": "2023-08-20 20:54:22 +0800",
-      "Pristine Enderman Matter": "2023-08-20 15:48:17 +0800"
+      "Pristine Enderman Matter": "2023-08-20 15:48:17 +0800",
+      "Pristine Zombie Matter": "2023-08-21 21:15:08 +0800"
     },
     "done": false
-  },
-  "sf4:age_enhancement/toolforge": {
-    "criteria": {
-      "Obtain Tool Forge": "2023-08-16 17:39:19 +0800"
-    },
-    "done": true
   },
   "sf4:age_allthethingsomglol/root": {
     "criteria": {

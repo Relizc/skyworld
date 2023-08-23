@@ -14,10 +14,12 @@
   "sf4:age1/complete": {
     "criteria": {
       "Completed Air Fryer§r": "2023-08-18 21:22:33 +0800",
+      "Completed Silver Spoon§r": "2023-08-21 22:38:02 +0800",
       "Completed That\u0027s Dir-tree§r": "2023-08-18 17:52:42 +0800",
       "Completed Sticky Keys§r": "2023-08-18 17:52:42 +0800",
       "Completed Stone Crook§r": "2023-08-18 21:05:18 +0800",
       "Completed Water You Waiting For?§r": "2023-08-18 21:20:56 +0800",
+      "Completed Silver Surfer§r": "2023-08-21 23:05:09 +0800",
       "Completed Break a Leg§r": "2023-08-18 18:06:05 +0800",
       "Completed This Tree is Forever§r": "2023-08-18 21:03:51 +0800",
       "Completed Blue Man Group§r": "2023-08-18 19:23:21 +0800",
@@ -34,6 +36,7 @@
       "Completed Amber is the Color of my Dinosaur§r": "2023-08-17 15:36:46 +0800",
       "Completed SkyFactory 4§r": "2023-08-17 15:07:34 +0800",
       "Completed Don\u0027t Sieve on Me§r": "2023-08-17 21:44:51 +0800",
+      "Completed Lead Zeppelin§r": "2023-08-23 10:37:14 +0800",
       "Completed Bubble, Bubble§r": "2023-08-19 12:34:21 +0800",
       "Completed One Shiny Boi§r": "2023-08-17 15:19:32 +0800",
       "Completed Money Grows on Trees§r": "2023-08-17 15:14:23 +0800",
@@ -97,6 +100,7 @@
   "sf4:age_storage/complete_no_prestige": {
     "criteria": {
       "Prestige Mode Disabled": "2023-08-17 15:07:34 +0800",
+      "Completed Wares the Remote?§r": "2023-08-21 22:45:00 +0800",
       "Completed CAT 5§r": "2023-08-17 15:21:01 +0800",
       "Completed Master Blaster§r": "2023-08-18 20:56:04 +0800",
       "Completed Age of Storage§r": "2023-08-17 15:07:34 +0800",
@@ -179,6 +183,7 @@
   },
   "sf4:age_storage/complete": {
     "criteria": {
+      "Completed Wares the Remote?§r": "2023-08-21 22:45:00 +0800",
       "Completed CAT 5§r": "2023-08-17 15:21:01 +0800",
       "Completed Master Blaster§r": "2023-08-18 20:56:04 +0800",
       "Completed Age of Storage§r": "2023-08-17 15:07:34 +0800",
@@ -256,7 +261,8 @@
       "Completed I\u0027ll Be Your Alloy§r": "2023-08-18 22:54:33 +0800",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2023-08-18 22:32:40 +0800",
       "Completed Axe Me Anything§r": "2023-08-17 21:49:38 +0800",
-      "Completed Sign My Cast§r": "2023-08-17 16:33:38 +0800"
+      "Completed Sign My Cast§r": "2023-08-17 16:33:38 +0800",
+      "Completed Storage Wars§r": "2023-08-23 12:18:19 +0800"
     },
     "done": false
   },
@@ -275,11 +281,13 @@
   "sf4:age1/completenoprestige": {
     "criteria": {
       "Completed Air Fryer§r": "2023-08-18 21:22:33 +0800",
+      "Completed Silver Spoon§r": "2023-08-21 22:38:02 +0800",
       "Prestige Mode Disabled": "2023-08-17 15:07:34 +0800",
       "Completed That\u0027s Dir-tree§r": "2023-08-18 17:52:42 +0800",
       "Completed Sticky Keys§r": "2023-08-18 17:52:42 +0800",
       "Completed Stone Crook§r": "2023-08-18 21:05:18 +0800",
       "Completed Water You Waiting For?§r": "2023-08-18 21:20:56 +0800",
+      "Completed Silver Surfer§r": "2023-08-21 23:05:09 +0800",
       "Completed Break a Leg§r": "2023-08-18 18:06:05 +0800",
       "Completed This Tree is Forever§r": "2023-08-18 21:03:51 +0800",
       "Completed Blue Man Group§r": "2023-08-18 19:23:21 +0800",
@@ -296,6 +304,7 @@
       "Completed Amber is the Color of my Dinosaur§r": "2023-08-17 15:36:46 +0800",
       "Completed SkyFactory 4§r": "2023-08-17 15:07:34 +0800",
       "Completed Don\u0027t Sieve on Me§r": "2023-08-17 21:44:51 +0800",
+      "Completed Lead Zeppelin§r": "2023-08-23 10:37:14 +0800",
       "Completed Bubble, Bubble§r": "2023-08-19 12:34:21 +0800",
       "Completed One Shiny Boi§r": "2023-08-17 15:19:32 +0800",
       "Completed Money Grows on Trees§r": "2023-08-17 15:14:23 +0800",
@@ -336,6 +345,7 @@
       "Completed No Cake Like Home§r": "2023-08-17 16:10:50 +0800",
       "Prestige Mode Disabled": "2023-08-17 15:07:34 +0800",
       "Completed Lost and Found§r": "2023-08-19 22:38:14 +0800",
+      "Completed Compact Your World§r": "2023-08-23 10:54:34 +0800",
       "Completed Where\u0027s the Boss?§r": "2023-08-20 15:52:01 +0800"
     },
     "done": false
@@ -367,9 +377,10 @@
   },
   "sf4:age1/sapling/lead": {
     "criteria": {
-      "Completed Root": "2023-08-17 15:07:34 +0800"
+      "Completed Root": "2023-08-17 15:07:34 +0800",
+      "Obtain Lead Sapling": "2023-08-23 10:37:14 +0800"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_exploration/lostcitiesworld": {
     "criteria": {
@@ -475,9 +486,10 @@
   },
   "sf4:age1/sapling/silver": {
     "criteria": {
-      "Completed Root": "2023-08-17 15:07:34 +0800"
+      "Completed Root": "2023-08-17 15:07:34 +0800",
+      "Obtain Silver Sapling": "2023-08-21 22:38:02 +0800"
     },
-    "done": false
+    "done": true
   },
   "sf4:age_power/completenoprestige": {
     "criteria": {
@@ -587,12 +599,19 @@
     },
     "done": true
   },
+  "sf4:age_storage/simplestorageremote": {
+    "criteria": {
+      "Obtain Storage Network Remote": "2023-08-21 22:45:00 +0800"
+    },
+    "done": true
+  },
   "sf4:age_exploration/complete": {
     "criteria": {
       "Completed Age of Exploration§r": "2023-08-17 15:07:34 +0800",
       "Completed Nether Here Nor There§r": "2023-08-17 16:10:50 +0800",
       "Completed No Cake Like Home§r": "2023-08-17 16:10:50 +0800",
       "Completed Lost and Found§r": "2023-08-19 22:38:14 +0800",
+      "Completed Compact Your World§r": "2023-08-23 10:54:34 +0800",
       "Completed Where\u0027s the Boss?§r": "2023-08-20 15:52:01 +0800"
     },
     "done": false
@@ -654,11 +673,18 @@
     },
     "done": false
   },
+  "sf4:age_exploration/compactmachines": {
+    "criteria": {
+      "Enter Compact Machines Dimension": "2023-08-23 10:54:34 +0800"
+    },
+    "done": true
+  },
   "sf4:age1/amber/silver": {
     "criteria": {
-      "Completed Root": "2023-08-17 15:07:34 +0800"
+      "Completed Root": "2023-08-17 15:07:34 +0800",
+      "Obtain Silver Amber": "2023-08-21 23:05:09 +0800"
     },
-    "done": false
+    "done": true
   },
   "sf4:age1/amber/lead": {
     "criteria": {
@@ -695,6 +721,8 @@
     "criteria": {
       "Obtain Dirt Sapling": "2023-08-18 17:52:42 +0800",
       "Obtain Osmium Sapling": "2023-08-19 13:41:09 +0800",
+      "Obtain Lead Sapling": "2023-08-23 10:37:14 +0800",
+      "Obtain Silver Sapling": "2023-08-21 22:38:02 +0800",
       "Obtain Coal Sapling": "2023-08-17 15:25:06 +0800",
       "Obtain Netherrack Sapling": "2023-08-18 21:05:52 +0800",
       "Obtain Diamond Sapling": "2023-08-18 21:03:51 +0800",
@@ -837,7 +865,8 @@
       "Completed I\u0027ll Be Your Alloy§r": "2023-08-18 22:54:33 +0800",
       "Completed Ore\u0027nt You Glad I Didn\u0027t Say Banana§r": "2023-08-18 22:32:40 +0800",
       "Completed Axe Me Anything§r": "2023-08-17 21:49:38 +0800",
-      "Completed Sign My Cast§r": "2023-08-17 16:33:38 +0800"
+      "Completed Sign My Cast§r": "2023-08-17 16:33:38 +0800",
+      "Completed Storage Wars§r": "2023-08-23 12:18:19 +0800"
     },
     "done": false
   },
@@ -970,6 +999,12 @@
       "Completed The End of all Matter§r": "2023-08-20 15:48:02 +0800"
     },
     "done": false
+  },
+  "sf4:age_enhancement/inventoryupgrade": {
+    "criteria": {
+      "Eat Cyclic Inventory Upgrade": "2023-08-23 12:18:19 +0800"
+    },
+    "done": true
   },
   "hardcore:hardcore/survive": {
     "criteria": {
